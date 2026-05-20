@@ -21,9 +21,9 @@ A major focus was placed on transitioning from a standard net-wire design to a c
 ## Visual Documentation
 
 ### Final Organized Architecture
-*(Upload Screenshot 2026-01-15 174832.png to the repo and link it here)*
+
 ![Final Schematic](Screenshot_2026-01-15_174832.png)
 
 ### Initial Draft & Routing
-*(Upload Screenshot 2026-01-14 191114.png to the repo and link it here)*
+
 ![Initial Draft](Screenshot_2026-01-14_191114.png)
