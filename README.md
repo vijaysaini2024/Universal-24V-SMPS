@@ -21,10 +21,10 @@ A major focus was placed on transitioning from a standard net-wire design to a c
 ## Visual Documentation
 
 ### Final Organized Architecture
-![Final Schematic]([<Screenshot_2026-01-15_174832.png>)](https://github.com/vijaysaini2024/Universal-24V-SMPS/blob/1395f3b4f0da3de2515dfc8efaaae22e476d1a97/Screenshot%202026-01-15%20174818.png)
+![Final Schematic](Screenshot%202026-01-15%20174832.png)
 
 ### Initial Draft & Routing Progression
-![Initial Draft](<Screenshot_2026-01-14_191114.png>)
+![Initial Draft](Screenshot%202026-01-14%20191114.png)
 
 ## Repository Contents
 * **`/`** - Contains the native `.kicad_sch` and project files for direct examination.
